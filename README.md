@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajayushhhh 
+- 👋 Hi, I’m Ayush Raj
 - 👀 I’m interested in Machine learning and software development
 - 🌱 I’m currently learning web development
 - 📫 How to reach me raj.ayush32500@gmail.com
