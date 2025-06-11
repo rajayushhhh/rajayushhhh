@@ -15,15 +15,15 @@ I'm a self-taught software engineer specializing in performant, scalable web dev
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./logos/css-logo.svg" title="CSS" alt="CSS" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./logos/javascript-logo.svg" title="Javascript" alt="Javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org"><img src="./logos/typescript-logo.svg" title="Typescript" alt="Typescript" width="40" height="40"/></a>
-  <a href="https://www.python.org/"><img src="" title="Python" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.python.org/"><img src="./logos/Python.svg" title="Python" alt="Python" width="40" height="40"/></a>
 </div>
 
 ### Front-end Frameworks
 
 <div>
   <a href='https://react.dev/'><img src="./logos/react-logo.svg" title="React" alt="React" width="40" height="40"/></a>
-  <a href="https://jquery.com/"><img src="" title="jQuery" alt="jQuery" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/"><img src="" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://jquery.com/"><img src="./logos/jquery-vertical.svg" title="jQuery" alt="jQuery" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="./logos/Bootstrap_logo.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>
   
 </div>
 
@@ -38,7 +38,7 @@ I'm a self-taught software engineer specializing in performant, scalable web dev
 
 <div> 
   <a href="https://tailwindcss.com/"><img src="./logos/tailwindcss-logo.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.postman.com/"><img src="./logos/" title="Postman" alt="Postman" width="40" height="40"/></a>
+  <a href="https://www.postman.com/"><img src="./logos/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/></a>
 </div>
 
 </div>
