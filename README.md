@@ -22,6 +22,7 @@ I'm a self-taught software engineer specializing in performant, scalable web dev
 
 <div>
   <a href='https://react.dev/'><img src="./logos/react-logo.svg" title="React" alt="React" width="40" height="40"/></a>
+  <a href='https://nextjs.org/'><img src="./logos/nextjs-logo.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/></a>
   <a href="https://jquery.com/"><img src="./logos/jquery-vertical.svg" title="jQuery" alt="jQuery" width="40" height="40"/></a>
   <a href="https://getbootstrap.com/"><img src="./logos/Bootstrap_logo.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>
   
